@@ -3,4 +3,6 @@
 >select neg ,(resn glu+asp)
 
 #To move only one molecule in PyMOL
-To do this, first choose Mouse > 3 Button Editing. Now hold down the Shift key and click anywhere on the desired molecule using the middle mouse button and drag to move it. Only the selected molecule is moved and the rest remain as they are.
+To do this, first choose Mouse > 3 Button Editing. 
+Now hold down the Shift key and click anywhere on the desired molecule using the middle mouse button and drag to move it.
+Only the selected molecule is moved and the rest remain as they are.
