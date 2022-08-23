@@ -1,6 +1,6 @@
 #To select charged residues in pymol
->select pos,(resn arg+lys+his)
->select neg ,(resn glu+asp)
+>select pos,(resn arg+lys+his) and name ca
+>select neg ,(resn glu+asp) and name ca
 
 #To move only one molecule in PyMOL
 To do this, first choose Mouse > 3 Button Editing. 
